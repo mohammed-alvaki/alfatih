@@ -1,2 +1,2 @@
 # alfatih
-#### Live preview: mohammedalvaki.htmcssjs.com/landing-pages/alfatih
+#### Live preview: https://mohammedalvaki.htmcssjs.com/landing-pages/alfatih
